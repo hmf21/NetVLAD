@@ -1,2 +1,2 @@
-# pytorch-NetVlad
+# pytorch-NetVLAD
 
